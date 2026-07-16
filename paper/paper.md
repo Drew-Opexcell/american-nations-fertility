@@ -1,6 +1,10 @@
 # Below Replacement, Unequally: Settlement-Era Regional Cultures and U.S. County Fertility
 
 **Author:** Drew Patterson, independent researcher
+(ORCID [0009-0005-9551-4948](https://orcid.org/0009-0005-9551-4948))
+
+**DOI:** [10.5281/zenodo.21396077](https://doi.org/10.5281/zenodo.21396077) &nbsp;|&nbsp;
+**Replication:** [https://github.com/Drew-Opexcell/american-nations-fertility](https://github.com/Drew-Opexcell/american-nations-fertility)
 
 **Target:** Socius (short article). Fallback: Demographic Research.
 
@@ -324,8 +328,9 @@ place, or both.
 All inputs are public: CDC WONDER natality files, Census Bureau Vintage 2024
 county population estimates, the 2020 U.S. Religion Census county file
 (ARDA/OSF), USDA ERS county education and income files, and the Urban
-Institute NCCS geographic crosswalk. Replication code (Python, no
-proprietary dependencies) and derived datasets accompany the article.
+Institute NCCS geographic crosswalk. The complete analysis pipeline (Python,
+no proprietary dependencies), derived datasets, and figures are archived at
+https://doi.org/10.5281/zenodo.21396077 and maintained at https://github.com/Drew-Opexcell/american-nations-fertility.
 
 ## References
 
