@@ -90,14 +90,15 @@ work with these sources, they will bite you too.
    must drop it. This bug initially inflated Yankeedom's identified-county TFR
    to 1.60; the true figure is 1.52.
 2. **The crosswalk has ten regions, not Woodard's eleven.** New Netherland is
-   not coded separately; metropolitan New York and northern New Jersey are
-   classified as Yankeedom. That is roughly **28 percent of the Yankeedom
-   female population aged 15-44**, and Yankeedom is the reference category, so
-   every coefficient is measured against a two-nation composite. Disclosed in
-   the paper; splitting it out cleanly is unresolved (a NYC-CSA proxy is too
-   broad, pulling in Fairfield and New Haven, which are genuinely Yankeedom,
-   and it is dominated by the Hasidic counties of Rockland and Orange at TFR
-   3.31 and 2.24).
+   not coded separately; its territory is classified as Yankeedom, which is the
+   reference category, so every coefficient is measured against a two-nation
+   composite. `new_netherland_check.py` tests this: reconstructed from Woodard's
+   stated boundaries, New Netherland runs **1.539 vs 1.511 for Yankeedom
+   proper**, a 0.028 difference, so the composite does not bias the gaps.
+   Getting the border right matters. Suffolk County is *eastern* Long Island
+   (New England-settled, therefore Yankeedom) and Orange County holds Kiryas
+   Joel (TFR 2.24). Any metro-area proxy swallows both and inflates New
+   Netherland to ~1.71, which is wrong.
 3. **WONDER county coverage is 79.5 percent of births, not ~85.** It identifies
    578 counties with 2010 population above 100,000. County models here retain
    566 of them: eight Connecticut counties have no denominator, and four
