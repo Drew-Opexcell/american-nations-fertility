@@ -166,9 +166,14 @@ is ecological by construction and is interpreted as such.
 ### 3.1 Levels
 
 Table 1 and Figures 1-2 present the core description. Every nation is below
-replacement. New France (1.77), the Acadiana counties of southern Louisiana,
-posts the highest TFR, followed by Greater Appalachia (1.73), the Midlands
-(1.70), and the Deep South (1.70). Yankeedom (1.54) and its Pacific offshoot
+replacement. New France (1.77), the French-settled parishes of southern
+Louisiana, posts the highest TFR, followed by Greater Appalachia (1.73), the
+Midlands (1.70), and the Deep South (1.70). New France is also the most
+internally heterogeneous nation, and worth reading carefully: it is not simply
+Acadiana. Its identified parishes run from Terrebonne at 1.97 and Lafayette at
+1.90, in the Cajun southwest, down to Orleans at 1.40, the lowest urban parish
+in the region. The nation leads the table despite New Orleans, not because of
+it. Yankeedom (1.54) and its Pacific offshoot
 the Left Coast (1.42) hold the bottom; the six states of Yankeedom's New
 England core sit lower still. El Norte (1.55), which carried the highest
 regional fertility in the country as recently as the mid-2000s, now sits
