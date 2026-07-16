@@ -168,12 +168,23 @@ is ecological by construction and is interpreted as such.
 Table 1 and Figures 1-2 present the core description. Every nation is below
 replacement. New France (1.77), the French-settled parishes of southern
 Louisiana, posts the highest TFR, followed by Greater Appalachia (1.73), the
-Midlands (1.70), and the Deep South (1.70). New France is also the most
-internally heterogeneous nation, and worth reading carefully: it is not simply
-Acadiana. Its identified parishes run from Terrebonne at 1.97 and Lafayette at
-1.90, in the Cajun southwest, down to Orleans at 1.40, the lowest urban parish
-in the region. The nation leads the table despite New Orleans, not because of
-it. Yankeedom (1.54) and its Pacific offshoot
+Midlands (1.70), and the Deep South (1.70).
+
+New France warrants two caveats. First, it is not synonymous with Acadiana: the
+region includes Orleans and East Baton Rouge parishes, and its identified
+parishes range from Terrebonne (1.97) and Lafayette (1.90) in the Cajun
+southwest down to Orleans (1.40). The Cajun parishes carry the nation's
+position, at a general fertility rate of 66.0 against 54.8 nationally, while the
+remaining parishes sit near the national figure at 56.2. Second, New France is
+by some margin the smallest nation measured here, 26 parishes and roughly 37,000
+births a year against Greater Appalachia's 936 counties and 714,000. Its rank
+should be read with that in mind, since smaller and more homogeneous aggregates
+sit further from the national mean by construction. The gap between New France
+and Greater Appalachia (0.035 children) is correspondingly slender, and the two
+also trade places by no more than that margin under the identified-county
+sensitivity in Table 1.
+
+Yankeedom (1.54) and its Pacific offshoot
 the Left Coast (1.42) hold the bottom; the six states of Yankeedom's New
 England core sit lower still. El Norte (1.55), which carried the highest
 regional fertility in the country as recently as the mid-2000s, now sits
