@@ -1,0 +1,5 @@
+raw/
+figures/web/
+__pycache__/
+*.pyc
+.DS_Store
