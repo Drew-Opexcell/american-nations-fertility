@@ -3,7 +3,7 @@
 **Author:** Drew Patterson, independent researcher
 (ORCID [0009-0005-9551-4948](https://orcid.org/0009-0005-9551-4948))
 
-**DOI:** [10.5281/zenodo.21396077](https://doi.org/10.5281/zenodo.21396077) &nbsp;|&nbsp;
+**DOI:** [10.5281/zenodo.21396076](https://doi.org/10.5281/zenodo.21396076) &nbsp;|&nbsp;
 **Replication:** [https://github.com/Drew-Opexcell/american-nations-fertility](https://github.com/Drew-Opexcell/american-nations-fertility)
 
 **Target:** Socius (short article). Fallback: Demographic Research.
@@ -358,7 +358,7 @@ county population estimates, the 2020 U.S. Religion Census county file
 (ARDA/OSF), USDA ERS county education and income files, and the Urban
 Institute NCCS geographic crosswalk. The complete analysis pipeline (Python,
 no proprietary dependencies), derived datasets, and figures are archived at
-https://doi.org/10.5281/zenodo.21396077 and maintained at https://github.com/Drew-Opexcell/american-nations-fertility.
+https://doi.org/10.5281/zenodo.21396076 and maintained at https://github.com/Drew-Opexcell/american-nations-fertility.
 
 ## References
 
