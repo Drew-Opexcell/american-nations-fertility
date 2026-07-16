@@ -6,9 +6,9 @@ Cultures and U.S. County Fertility.*
 **Drew Patterson**, Independent Researcher
 ORCID [0009-0005-9551-4948](https://orcid.org/0009-0005-9551-4948)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21396077.svg)](https://doi.org/10.5281/zenodo.21396077)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21396076.svg)](https://doi.org/10.5281/zenodo.21396076)
 
-Paper: [`paper/paper.pdf`](paper/paper.pdf) &nbsp;|&nbsp; Archived: https://doi.org/10.5281/zenodo.21396077
+Paper: [`paper/paper.pdf`](paper/paper.pdf) &nbsp;|&nbsp; Archived: https://doi.org/10.5281/zenodo.21396076 (resolves to the latest version)
 
 ## Summary
 
@@ -118,7 +118,7 @@ pattern reported here.
 ## Citation
 
 > Patterson, Drew. 2026. "Below Replacement, Unequally: Settlement-Era Regional
-> Cultures and U.S. County Fertility." Zenodo. https://doi.org/10.5281/zenodo.21396077
+> Cultures and U.S. County Fertility." Zenodo. https://doi.org/10.5281/zenodo.21396076
 
 ## License
 
